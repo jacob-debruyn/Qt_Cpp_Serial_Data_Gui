@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/res">
+        <file>batteryIcon.png</file>
+        <file>batteryIconRed.png</file>
+        <file>thermometer.png</file>
+        <file>batteryIcon2.png</file>
+        <file>RMITLogo.jpg</file>
+        <file>icon.png</file>
+        <file>logo.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
